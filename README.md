@@ -5,6 +5,10 @@ _Using this webpack-boilerpalte_
 	
 	npm install
 
+_Also install axios_
+
+	npm i -D axios
+
 **Finally run**
 
 	npm start
